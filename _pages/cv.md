@@ -54,5 +54,5 @@ Service and leadership
 * University of Washington, Seattle, WA
   * 9/2020 - present: Biostatistics Admission Committee; Member 
   * 2018 - present: Foundation of Intl Understanding Through Students; Lead Facilitator 
-  * 2018 - present; Biostatistics Equity, Diversity and Inclusion Committee; Member 
+  * 2018 - present: Biostatistics Equity, Diversity and Inclusion Committee; Member 
   * 2018 - 6/2019: Biostatistics Student Seminar; Co-Coordinator 
