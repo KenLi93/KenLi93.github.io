@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+For a more complete cv, click <a href="https://KenLi93.github.io/files/Kendrick_Li_CV_2020.pdf">here</a>.
 Education
 ======
 * B.S. in Biology & B.A. in Applied Mathematics, Peking University, 2016
