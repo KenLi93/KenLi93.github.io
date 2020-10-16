@@ -11,41 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Biology & B.A. in Applied Mathematics, Peking University, 2016
+* Ph.D in Biostatistics, University of Washington, 2021 (expected)
+  * Advisor: Kenneth Rice, Ph.D.
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 9/2019 - present: Research Assistant
+  * Fred Hutchinson Cancer Reserach Center
+  * Research Topic: Vaccine Efficacy Correlate Analysis for HIV Vaccine Clinical Trials
+  * Supervisor: Professor Peter Gilbert
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 9/2017 - 12/2019: Research Assistant
+  * Department of Biostatistics, University of Washington
+  * Research Topic: Evidence Synthesis on Cardiac Resynchronization Therapy
+  * Supervisor: Professor Lurdes Inoue
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: R (proficient), Linux/Unix, Git, SQL, C++, JAVA
+* Language
+  * Mandarin Chinese (native)
+  * English (fluent)
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
@@ -56,4 +48,8 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* University of Washington, Seattle, WA
+  * 9/2020 - present: Biostatistics Admission Committee; Member 
+  * 2018 - present: Foundation of Intl Understanding Through Students; Lead Facilitator 
+  * 2018 - present Biostatistics Equity, Diversity and Inclusion Committee; Member 
+  * 2018 - 6/2019: Biostatistics Student Seminar; Co-Coordinator 
