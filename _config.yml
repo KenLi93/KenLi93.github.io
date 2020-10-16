@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kendrick Li's Homepage"
 title_separator          : "-"
 name                     : &name "Kendrick (Qijun) Li"
-description              : &description "personal description"
+description              : &description "Biostatistician; Data Science enthusiast; Believer in science, data and humanity"
 url                      : "https://KenLi93.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "KenLi93/KenLi93.github.io"
@@ -99,7 +99,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
