@@ -15,7 +15,7 @@ For a more complete cv, click <a href="https://KenLi93.github.io/files/Kendrick_
 Education
 ======
 * B.S. in Biology & B.A. in Applied Mathematics, Peking University, 2016
-* Ph.D in Biostatistics, University of Washington, 2021 (expected)
+* Ph.D. in Biostatistics, University of Washington, 2021 (expected)
   * Advisor: Kenneth Rice, Ph.D.
 
 Research experience
@@ -54,5 +54,5 @@ Service and leadership
 * University of Washington, Seattle, WA
   * 9/2020 - present: Biostatistics Admission Committee; Member 
   * 2018 - present: Foundation of Intl Understanding Through Students; Lead Facilitator 
-  * 2018 - present Biostatistics Equity, Diversity and Inclusion Committee; Member 
+  * 2018 - present; Biostatistics Equity, Diversity and Inclusion Committee; Member 
   * 2018 - 6/2019: Biostatistics Student Seminar; Co-Coordinator 
