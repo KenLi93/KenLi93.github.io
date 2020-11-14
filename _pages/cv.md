@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-For a more complete cv, click <a href="https://KenLi93.github.io/files/Kendrick_Li_CV_2020.pdf">here</a>.
+For a more complete cv, click <a href="https://KenLi93.github.io/files/cv.pdf">here</a>.
 
 
 Education
@@ -32,7 +32,7 @@ Research experience
   
 Skills
 ======
-* Programming: R (proficient), Linux/Unix, Git, SQL, C++, JAVA
+* Programming: R (proficient), Python, Linux/Unix, Git, SQL, C++, JAVA
 * Language
   * Mandarin Chinese (native)
   * English (fluent)
