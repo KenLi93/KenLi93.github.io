@@ -8,4 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year PhD student in the Department of Biostatistics at University of Washington. I graduated from Peking University with a B.S. in Biology and a double major in Applied Mathematics. My dissertation advisor is Professor Kenneth Rice. Our work includes developing robust inference for meta-analysis, shrinkage estimators with robust risk properties and robust decision-theoretic inference. I am also a research assistant at Fred Hutchinson Cancer Research Center, under the supervision of Professor Peter Gilbert and Dr. Yunda Huang. In my free time, I like listening to podcasts, reading and hiking.
+I am excited about the theories and practices of robust statistics, especially as they are used to provide insights into the population's health correlates and guide healthcare policies and product development decisions.
+
+Currently, I study and develop robust methods for agnostic statistical inference in meta-analyses, high-dimension linear models, and Bayesian decision theory, as a Ph.D. student at the Department of Biostatistics, University of Washington. I have also gained skills and experience in method development, data analysis, data visualization, and communication through multiple research assistantships.
+
+I strive to develop my skills and experience as a thoughtful and capable statistician and hope to collaborate with researchers from various backgrounds to overcome substantial healthcare challenges.
